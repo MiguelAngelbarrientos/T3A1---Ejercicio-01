@@ -22,3 +22,10 @@ salida:
 |- MATEMATICAS DISCRETAS                       85          |
 +--------------------------------------------------------+|
 - promedio:                                   80
+
+
+
+
+## Etapa 3. Diseño de la solucion
+Diagrama de la clase
+![](https://github.com/MiguelAngelbarrientos/T3A1---Ejercicio-01/blob/main/T3A1.png)
