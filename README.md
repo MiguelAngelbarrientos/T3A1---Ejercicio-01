@@ -31,4 +31,4 @@ Diagrama de la clase
 ![](https://github.com/MiguelAngelbarrientos/T3A1---Ejercicio-01/blob/main/T3A1.png)
 
 ## Etapa 4. Desarrollo de la solucion
-https://github.com/MiguelAngelbarrientos/T3A1---Ejercicio-01.git
+https://github.com/MiguelAngelbarrientos/T3A1---Ejercicio-01/blob/main/T3A1.zip
