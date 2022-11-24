@@ -14,7 +14,7 @@ salida:
 -Resumen de los datos del estudiante con su promedio
 
 +--------------------------------------------------------+
-|- Estudante: Miguel Angel Barriento Mendoza               |
+|- Estudante: Miguel Angel Barrientos Mendoza               |
 |- Grupo: 1A Carrera: INGENIERIA INFORMATICA               |
 |-                                                         |
 |  Asignatura:                             CALIFIFICACION  |
